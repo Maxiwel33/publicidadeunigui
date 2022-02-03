@@ -1,0 +1,48 @@
+RadioVitrine.exe: 000005A4: 06:11:47 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000005A4: 06:11:47 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000005A4: 06:11:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000005A4: 06:11:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000F38: 07:55:22 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000F38: 07:55:22 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000F38: 07:55:22 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 00000F38: 07:55:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000F38: 07:55:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000EA4: 07:57:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 000013BC: 07:58:05 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000013BC: 07:58:05 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000013BC: 07:58:05 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+RadioVitrine.exe: 000013BC: 07:58:05 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000013BC: 07:58:05 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 0000175C: 08:05:43 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]violation of FOREIGN KEY constraint "FK_CONTRATO_CLIENTE" on table "CONTRATO"
+Foreign key references are present for the record
+Problematic key value is ("ID_CLIENTE" = 2) : Addr: $008CD90B
+RadioVitrine.exe: 0000170C: 08:05:44 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]violation of FOREIGN KEY constraint "FK_CONTRATO_CLIENTE" on table "CONTRATO"
+Foreign key references are present for the record
+Problematic key value is ("ID_CLIENTE" = 2) : Addr: $008CD90B
+RadioVitrine.exe: 00001778: 08:05:45 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]violation of FOREIGN KEY constraint "FK_CONTRATO_CLIENTE" on table "CONTRATO"
+Foreign key references are present for the record
+Problematic key value is ("ID_CLIENTE" = 2) : Addr: $008CD90B
+RadioVitrine.exe: 00001578: 08:05:46 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]violation of FOREIGN KEY constraint "FK_CONTRATO_CLIENTE" on table "CONTRATO"
+Foreign key references are present for the record
+Problematic key value is ("ID_CLIENTE" = 2) : Addr: $008CD90B
+RadioVitrine.exe: 0000157C: 08:21:34 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 0000157C: 08:21:34 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 0000157C: 08:21:35 [TUniServerModule]:Global Cache Folder Erased. <275> Files deleted.
+RadioVitrine.exe: 0000157C: 08:21:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 0000157C: 08:21:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000003EC: 08:30:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00000EC8: 09:29:59 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000EC8: 09:29:59 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000EC8: 09:29:59 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 00000EC8: 09:30:00 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000EC8: 09:30:00 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000A0C: 09:36:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 000008B8: 09:37:27 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000008B8: 09:37:27 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000008B8: 09:37:27 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 000008B8: 09:37:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000008B8: 09:37:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000978: 09:42:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 000013C4: 10:44:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00001494: 11:38:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 0000118C: 17:13:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE

@@ -1,0 +1,17 @@
+RadioVitrine.exe: 00001970: 12:53:33 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001970: 12:53:33 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001970: 12:53:33 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001970: 12:53:33 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000011A8: 12:55:38 [127.0.0.1]:UniErrorException : Event:bclose, Object: O8 not found in session list. It could be timed out, refresh page and try again : Addr: $00000000
+RadioVitrine.exe: 000017CC: 15:09:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4F3
+RadioVitrine.exe: 00001970: 15:20:34 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001970: 15:20:34 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001970: 15:20:36 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001970: 15:20:36 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001970: 15:20:36 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001970: 15:20:36 [Terminated]:Exit Code: 0

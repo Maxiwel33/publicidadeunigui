@@ -1,0 +1,63 @@
+RadioVitrine.exe: 00002550: 07:44:14 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00002550: 07:44:15 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00002550: 07:44:15 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00002550: 07:44:15 [TUniServerModule]:Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 00002550: 07:44:15 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00002550: 07:44:16 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00003334: 07:44:40 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme.css
+RadioVitrine.exe: 00003334: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-ext.css
+RadioVitrine.exe: 0000331C: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\resources\css\ext-all.css
+RadioVitrine.exe: 00002FAC: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\ext-all.js
+RadioVitrine.exe: 00001750: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.css
+RadioVitrine.exe: 000008D4: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 0000139C: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme.css
+RadioVitrine.exe: 00001E94: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unicommon-min.js
+RadioVitrine.exe: 00002754: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 00002560: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\locale\ext-lang-pt.js
+RadioVitrine.exe: 00001FA4: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\AlwaysOnTop.js
+RadioVitrine.exe: 000033AC: 07:44:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 00001858: 07:44:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.js
+RadioVitrine.exe: 00000724: 07:44:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00001968: 07:44:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00000F70: 07:44:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 000024F0: 07:44:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.css
+RadioVitrine.exe: 00002C40: 07:44:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00001CB4: 07:44:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 00002474: 07:44:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme.css
+RadioVitrine.exe: 00001884: 07:44:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 000018D4: 07:53:35 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\resources\css\ext-all.css
+RadioVitrine.exe: 00000944: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-ext.css
+RadioVitrine.exe: 00001DE4: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\ext-all.js
+RadioVitrine.exe: 00000668: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme.css
+RadioVitrine.exe: 00002ABC: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.css
+RadioVitrine.exe: 00000250: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 00003368: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 00000D44: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00001898: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unicommon-min.js
+RadioVitrine.exe: 00002320: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\locale\ext-lang-pt.js
+RadioVitrine.exe: 00000D5C: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\AlwaysOnTop.js
+RadioVitrine.exe: 000023AC: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 000010A8: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.js
+RadioVitrine.exe: 000025A0: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 00001F40: 07:53:36 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00001F3C: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 000021E0: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-4.2.5.1763\locale\ext-lang-pt.js
+RadioVitrine.exe: 00002ED4: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\AlwaysOnTop.js
+RadioVitrine.exe: 00003290: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 00002EAC: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.js
+RadioVitrine.exe: 00002CD8: 07:53:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ClearButton\ClearButton.css
+RadioVitrine.exe: 00001EC8: 07:53:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00000F34: 07:53:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 000010F8: 07:53:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 00003158: 07:53:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme.css
+RadioVitrine.exe: 000002C0: 07:53:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 00002550: 07:53:57 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00002550: 07:53:58 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00002550: 07:53:58 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00002550: 07:53:58 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00002550: 07:53:58 [Terminated]:Exit Code: 0

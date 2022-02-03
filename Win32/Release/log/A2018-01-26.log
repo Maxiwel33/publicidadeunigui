@@ -1,0 +1,7 @@
+RadioVitrine.exe: 00001B88: 08:22:46 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001B88: 08:22:46 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001B88: 08:22:46 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001B88: 08:22:47 [TUniServerModule]:Cache Folder Erased. <36> Files deleted.
+RadioVitrine.exe: 00001B88: 08:22:47 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001B88: 08:22:47 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001700: 08:25:48 [127.0.0.1]:EDatabaseError : TBsaida: Cannot perform this operation on a closed dataset : Addr: $0065F92E

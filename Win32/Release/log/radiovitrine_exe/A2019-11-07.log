@@ -1,0 +1,79 @@
+RadioVitrine.exe: 00000948: 08:06:56 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000948: 08:06:56 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000948: 08:06:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000948: 08:06:56 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $0071E2CE
+RadioVitrine.exe: 00000948: 08:07:01 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00000948: 08:07:01 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00000948: 08:07:02 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00000948: 08:07:02 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00000948: 08:07:02 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00000948: 08:07:02 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00000C24: 08:07:09 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000C24: 08:07:09 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000C24: 08:07:09 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000C24: 08:07:09 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $0071E2CE
+RadioVitrine.exe: 00000C24: 08:07:16 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00000C24: 08:07:16 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00000C24: 08:07:17 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00000C24: 08:07:17 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00000C24: 08:07:17 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 0000115C: 08:07:28 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 0000115C: 08:07:28 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 0000115C: 08:07:28 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 0000115C: 08:07:28 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001BF4: 08:10:48 [127.0.0.1]:EDatabaseError : TBplanocont: Type mismatch for field 'VALOR', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 00001BF4: 08:10:55 [127.0.0.1]:EDatabaseError : TBparcelas: Type mismatch for field 'VALOR', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 00001BF4: 08:11:52 [127.0.0.1]:EDatabaseError : TBparcelas: Type mismatch for field 'VALOR', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 000015C0: 08:12:23 [127.0.0.1]:EDatabaseError : TBbalanco: Type mismatch for field 'TOTAL', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 00001A94: 08:12:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00000904: 08:13:05 [127.0.0.1]:EDatabaseError : TBfuncionario: Type mismatch for field 'COMISSAO', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 0000115C: 08:19:43 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 0000115C: 08:19:43 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 0000115C: 08:19:43 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00000BD8: 08:19:54 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000BD8: 08:19:54 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000BD8: 08:19:54 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000BD8: 08:19:54 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000014C4: 08:20:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00001354: 08:20:48 [127.0.0.1]:EDatabaseError : TBfuncionario: Type mismatch for field 'COMISSAO', expecting: BCD actual: FMTBcd : Addr: $0069E712
+RadioVitrine.exe: 000011A8: 08:26:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00000F40: 08:27:17 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000F40: 08:27:17 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000F40: 08:27:17 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 00000F40: 08:27:17 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00000F40: 08:27:17 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000016B0: 08:27:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\SistemAdmin\Win32\Release\cache\radiovitrine_exe\FvtULLxrJP104ED67AF\temp082159172.pdf
+RadioVitrine.exe: 000010C8: 08:27:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\SistemAdmin\Win32\Release\cache\radiovitrine_exe\FvtULLxrJP104ED67AF\temp082159172.pdf
+RadioVitrine.exe: 00001BD0: 08:27:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\SistemAdmin\Win32\Release\cache\radiovitrine_exe\FvtULLxrJP104ED67AF\temp082159172.pdf
+RadioVitrine.exe: 00001B10: 08:27:24 [HandleFileRequest[127.0.0.1]]:File not found: C:\SistemAdmin\Win32\Release\favicon.ico
+RadioVitrine.exe: 00000B10: 08:46:52 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 00000F40: 09:04:04 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00000F40: 09:04:04 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00000F40: 09:04:05 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00000F40: 09:04:06 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00000F40: 09:04:06 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00000F40: 09:04:06 [Terminated]:Exit Code: 0

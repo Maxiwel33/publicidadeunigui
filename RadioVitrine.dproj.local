@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/20 06:46:32.000.362,=C:\SistemAdmin\MainModule.pas</Transaction>
+    <Transaction>2017/12/20 06:46:32.000.320,=C:\SistemAdmin\ServerModule.pas</Transaction>
+    <Transaction>2017/12/20 06:46:37.000.567,=C:\SistemAdmin\Main.pas</Transaction>
+    <Transaction>2017/12/20 10:13:13.000.597,=C:\SistemAdmin\MainModule.pas</Transaction>
+    <Transaction>2017/12/20 10:13:13.000.989,=C:\SistemAdmin\Main.pas</Transaction>
+    <Transaction>2017/12/20 10:13:13.000.526,=C:\SistemAdmin\ServerModule.pas</Transaction>
+    <Transaction>2017/12/21 11:04:49.000.703,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2017/12/21 11:08:56.000.578,C:\SistemAdmin\ULogin.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2017/12/21 11:08:56.000.578,C:\SistemAdmin\ULogin.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/23 07:49:14.000.791,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/23 07:52:07.000.188,C:\SistemAdmin\Unit1.dfm=C:\SistemAdmin\U_Grafico.dfm</Transaction>
+    <Transaction>2018/01/23 07:52:07.000.188,C:\SistemAdmin\Unit1.pas=C:\SistemAdmin\U_Grafico.pas</Transaction>
+    <Transaction>2018/01/24 16:18:20.000.320,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/24 16:18:45.000.007,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/24 16:22:31.000.382,C:\SistemAdmin\Unit1.pas=C:\SistemAdmin\U_RelCliente.pas</Transaction>
+    <Transaction>2018/01/24 16:22:31.000.382,C:\SistemAdmin\Unit1.dfm=C:\SistemAdmin\U_RelCliente.dfm</Transaction>
+    <Transaction>2018/01/25 04:36:14.000.064,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 04:47:12.000.512,C:\SistemAdmin\U_RelFunciona.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/25 04:47:12.000.512,C:\SistemAdmin\U_RelFunciona.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 04:51:47.000.223,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 04:52:25.000.946,C:\SistemAdmin\U_RelContrato.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/25 04:52:25.000.946,C:\SistemAdmin\U_RelContrato.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 05:34:01.000.365,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 05:35:44.000.468,C:\SistemAdmin\U_RelReceita.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/25 05:35:44.000.468,C:\SistemAdmin\U_RelReceita.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 05:42:43.000.785,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 05:43:56.000.378,C:\SistemAdmin\U_RelDespesas.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/25 05:43:56.000.378,C:\SistemAdmin\U_RelDespesas.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 06:27:36.000.910,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 06:28:55.000.337,C:\SistemAdmin\U_RelVisitas.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/25 06:28:55.000.337,C:\SistemAdmin\U_RelVisitas.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/29 17:52:06.000.138,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 17:55:43.000.244,C:\SistemAdmin\U_RelParcelas.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/29 17:55:43.000.244,C:\SistemAdmin\U_RelParcelas.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 17:59:17.000.368,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 17:59:44.000.275,C:\SistemAdmin\U_RelGerarcarne.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 17:59:44.000.275,C:\SistemAdmin\U_RelGerarcarne.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/29 18:52:37.000.067,C:\SistemAdmin\U_RelGerarcarne.pas=</Transaction>
+    <Transaction>2018/01/29 18:52:46.000.892,C:\SistemAdmin\U_RelParcelas.pas=</Transaction>
+    <Transaction>2018/01/29 18:52:52.000.853,=C:\SistemAdmin\Unit1.pas</Transaction>
+    <Transaction>2018/01/29 18:53:09.000.196,C:\SistemAdmin\U_RelParcelas.dfm=C:\SistemAdmin\Unit1.dfm</Transaction>
+    <Transaction>2018/01/29 18:53:09.000.196,C:\SistemAdmin\U_RelParcelas.pas=C:\SistemAdmin\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

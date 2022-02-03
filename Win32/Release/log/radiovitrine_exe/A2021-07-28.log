@@ -1,0 +1,16 @@
+RadioVitrine.exe: 00003D3C: 10:16:01 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00003D3C: 10:16:01 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00003D3C: 10:16:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00003D3C: 10:16:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000036F8: 10:28:19 [127.0.0.1]:EDatabaseError : TBcontrato: Type mismatch for field 'VALORMENSAL', expecting: BCD actual: FMTBcd : Addr: $0069EFB2
+RadioVitrine.exe: 00003D3C: 10:48:07 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00003D3C: 10:48:07 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00003D3C: 10:48:07 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00003D3C: 10:48:07 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00003D3C: 10:48:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00003D3C: 10:48:08 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00003D3C: 10:48:08 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00003D3C: 10:48:08 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00003D3C: 10:48:08 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00003D3C: 10:48:08 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00003D3C: 10:48:08 [Terminated]:Exit Code: 0

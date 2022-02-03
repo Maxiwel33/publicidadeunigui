@@ -1,0 +1,82 @@
+RadioVitrine.exe: 00002680: 18:47:24 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00002680: 18:47:24 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00002680: 18:47:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00002680: 18:47:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00003030: 18:47:39 [Requested Theme File not found:]:C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-classic.css
+RadioVitrine.exe: 00003030: 18:47:39 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-classic.css
+RadioVitrine.exe: 00003030: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-ext.css
+RadioVitrine.exe: 00003BA4: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\ext-all.js
+RadioVitrine.exe: 0000274C: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\theme-classic\resources\theme-classic-all.css
+RadioVitrine.exe: 000026D8: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+RadioVitrine.exe: 00002D74: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+RadioVitrine.exe: 00002C60: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\classic\resources\charts-all.css
+RadioVitrine.exe: 00001810: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 00003AE8: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unicommon-min.js
+RadioVitrine.exe: 00003D30: 18:47:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+RadioVitrine.exe: 000026AC: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 000035B0: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\locale\locale-pt.js
+RadioVitrine.exe: 00003D94: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 00004148: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00001688: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00004280: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\charts.js
+RadioVitrine.exe: 00003E38: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 00004018: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unicommon-min.js
+RadioVitrine.exe: 000004B0: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 00000E48: 18:47:41 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\locale\locale-pt.js
+RadioVitrine.exe: 00001E70: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 000033B4: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+RadioVitrine.exe: 00003CDC: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+RadioVitrine.exe: 000037A0: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00002A98: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00002D3C: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\classic\resources\charts-all.css
+RadioVitrine.exe: 00004154: 18:47:42 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\charts.js
+RadioVitrine.exe: 00002EE8: 18:47:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 000027E4: 18:47:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 00003478: 18:48:18 [Requested Theme File not found:]:C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-classic.css
+RadioVitrine.exe: 00003478: 18:48:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-ext.css
+RadioVitrine.exe: 00003F18: 18:48:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\theme-classic\resources\theme-classic-all.css
+RadioVitrine.exe: 00001990: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+RadioVitrine.exe: 000010C4: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 0000367C: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+RadioVitrine.exe: 00001908: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\classic\resources\charts-all.css
+RadioVitrine.exe: 00000B40: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\ext-all.js
+RadioVitrine.exe: 00001E74: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\theme-classic\theme-classic.js
+RadioVitrine.exe: 00003354: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unicommon-min.js
+RadioVitrine.exe: 00003230: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-sync-min.js
+RadioVitrine.exe: 000034A4: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\classic\locale\locale-pt.js
+RadioVitrine.exe: 00003504: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\jquery-1.11.2.min.js
+RadioVitrine.exe: 00002A84: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+RadioVitrine.exe: 00002F5C: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-awesome\resources\font-awesome-all.css
+RadioVitrine.exe: 0000429C: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\font-pictos\resources\font-pictos-all.css
+RadioVitrine.exe: 00002A7C: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+RadioVitrine.exe: 00001B28: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\charts.js
+RadioVitrine.exe: 00003C40: 18:48:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 0000404C: 18:48:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-6.7.0\build\packages\charts\classic\classic\resources\charts-all.css
+RadioVitrine.exe: 000042C4: 18:48:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-common.css
+RadioVitrine.exe: 00002A2C: 18:48:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\ext-unigui-min.js
+RadioVitrine.exe: 00002680: 18:48:29 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00002680: 18:48:29 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00002680: 18:48:30 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00002680: 18:48:30 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00002680: 18:48:30 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00002680: 18:48:30 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00002CD4: 19:00:47 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00002CD4: 19:00:47 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00002CD4: 19:00:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00002CD4: 19:00:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00002CD4: 19:20:09 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00002CD4: 19:20:10 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00002CD4: 19:20:10 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00002CD4: 19:20:10 [Terminated]:Exit Code: 0

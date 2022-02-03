@@ -1,0 +1,16 @@
+RadioVitrine.exe: 00001524: 08:05:46 [127.0.0.1]:Failed Sequence Recovery: SeqId: 48, Event: click
+RadioVitrine.exe: 00001524: 08:05:46 [127.0.0.1]:Sequence sent from cache:  SeqId: 48
+RadioVitrine.exe: 00001524: 08:05:46 [127.0.0.1]:Processed: Id: 48, Evt: click, [V2JmfE5jEa104F37D70]
+RadioVitrine.exe: 00001524: 08:05:47 [127.0.0.1]:Failed Sequence Recovery: SeqId: 49, Event: click
+RadioVitrine.exe: 00001524: 08:05:47 [127.0.0.1]:Sequence sent from cache:  SeqId: 49
+RadioVitrine.exe: 00001524: 08:05:47 [127.0.0.1]:Processed: Id: 49, Evt: click, [V2JmfE5jEa104F37D70]
+RadioVitrine.exe: 00001740: 08:05:54 [127.0.0.1]:Failed Sequence Recovery: SeqId: 50, Event: click
+RadioVitrine.exe: 00001740: 08:05:54 [127.0.0.1]:Sequence sent from cache:  SeqId: 50
+RadioVitrine.exe: 00001740: 08:05:54 [127.0.0.1]:Processed: Id: 50, Evt: click, [V2JmfE5jEa104F37D70]
+RadioVitrine.exe: 00001740: 08:05:54 [127.0.0.1]:Failed Sequence Recovery: SeqId: 53, Event: click
+RadioVitrine.exe: 00001740: 08:05:54 [127.0.0.1]:Processing: Id: 53, Evt: click
+RadioVitrine.exe: 00001058: 08:05:54 [127.0.0.1]:Failed Sequence Recovery: SeqId: 54, Event: click
+RadioVitrine.exe: 00001240: 08:05:54 [127.0.0.1]:Failed Sequence Recovery: SeqId: 51, Event: click
+RadioVitrine.exe: 000009B4: 08:05:58 [127.0.0.1]:Failed Sequence Recovery: SeqId: 55, Event: click
+RadioVitrine.exe: 000014A0: 08:08:42 [127.0.0.1]:Failed Sequence Recovery: SeqId: 41, Event: click
+RadioVitrine.exe: 0000124C: 08:09:17 [127.0.0.1]:Failed Sequence Recovery: SeqId: 41, Event: click

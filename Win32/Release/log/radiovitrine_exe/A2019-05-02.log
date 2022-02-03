@@ -1,0 +1,87 @@
+RadioVitrine.exe: 00001244: 07:51:31 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001244: 07:51:31 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001244: 07:51:31 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 00001244: 07:51:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001244: 07:51:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 0000189C: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00000E30: 07:51:31 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BB0: 07:52:01 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]unsupported on-disk structure for file C:\SistemAdmin\Banco\DADOS.FDB; found 32779.10, support <Missing arg #4 - possibly status vector overflow>.<Missing arg #5 - possibly status vector overflow> : Addr: $007E27E2
+RadioVitrine.exe: 00001244: 07:53:44 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001244: 07:53:44 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001244: 07:53:45 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001244: 07:53:45 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001244: 07:53:45 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001244: 07:53:45 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00001904: 07:53:57 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001904: 07:53:57 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001904: 07:53:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001904: 07:53:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001968: 07:55:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 000001E0: 08:01:26 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]violation of FOREIGN KEY constraint "FK_CONTRATO_CLIENTE" on table "CONTRATO"
+Foreign key references are present for the record
+Problematic key value is ("ID_CLIENTE" = 2) : Addr: $007E27E2
+RadioVitrine.exe: 00001904: 08:02:43 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001904: 08:02:43 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001904: 08:02:44 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001904: 08:02:44 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001904: 08:02:44 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001904: 08:02:44 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00001B04: 08:02:56 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001B04: 08:02:56 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001B04: 08:02:56 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001B04: 08:02:56 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 000015E4: 08:03:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001B04: 08:05:31 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001B04: 08:05:31 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00001B04: 08:05:32 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001B04: 08:05:32 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001B04: 08:05:32 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001B04: 08:05:32 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001B04: 08:05:32 [TUniGUISessionManager]:Waiting for session manager thread...
+RadioVitrine.exe: 00001B70: 09:18:03 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001B70: 09:18:03 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001B70: 09:18:03 [TUniServerModule]:Global Cache Folder Erased. <148> Files deleted.
+RadioVitrine.exe: 00001B70: 09:18:03 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001B70: 09:18:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001510: 15:48:56 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001510: 15:48:56 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001510: 15:48:57 [TUniServerModule]:Global Cache Folder Erased. <149> Files deleted.
+RadioVitrine.exe: 00001510: 15:48:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 00001510: 15:48:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000FB0: 16:00:55 [127.0.0.1]:UniErrorException : Event:bclose, Object: O8 not found in session list. It could be timed out, refresh page and try again : Addr: $00000000
+RadioVitrine.exe: 00001510: 16:05:57 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001510: 16:05:57 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001510: 16:05:57 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001510: 16:05:57 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001510: 16:05:57 [Terminated]:Exit Code: 0

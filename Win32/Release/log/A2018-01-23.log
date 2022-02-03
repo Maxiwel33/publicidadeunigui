@@ -1,0 +1,77 @@
+RadioVitrine.exe: 00001D20: 07:43:49 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001D20: 07:43:49 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001D20: 07:43:49 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001D20: 07:43:49 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+RadioVitrine.exe: 00001D20: 07:43:49 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001D20: 07:43:49 [TUniServerModule]:HTTP Server Started. Port: 2329
+RadioVitrine.exe: 00001924: 07:47:02 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001924: 07:47:02 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001924: 07:47:02 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001924: 07:47:02 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+RadioVitrine.exe: 00001924: 07:47:02 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001924: 07:47:02 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001834: 08:06:11 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001834: 08:06:11 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001834: 08:06:11 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001834: 08:06:11 [TUniServerModule]:Cache Folder Erased. <44> Files deleted.
+RadioVitrine.exe: 00001834: 08:06:11 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001834: 08:06:11 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00000AAC: 08:06:15 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775
+RadioVitrine.exe: 00001140: 08:07:24 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001140: 08:07:24 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001140: 08:07:24 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001140: 08:07:24 [TUniServerModule]:Cache Folder Erased. <139> Files deleted.
+RadioVitrine.exe: 00001140: 08:07:24 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001140: 08:07:24 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00000934: 08:07:27 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775
+RadioVitrine.exe: 00001D78: 08:10:03 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001D78: 08:10:03 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001D78: 08:10:03 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001D78: 08:10:03 [TUniServerModule]:Cache Folder Erased. <140> Files deleted.
+RadioVitrine.exe: 00001D78: 08:10:03 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001D78: 08:10:03 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001C70: 08:10:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775
+RadioVitrine.exe: 00001498: 08:11:33 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001498: 08:11:33 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001498: 08:11:33 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001498: 08:11:33 [TUniServerModule]:Cache Folder Erased. <145> Files deleted.
+RadioVitrine.exe: 00001498: 08:11:33 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001498: 08:11:33 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00000C80: 08:11:39 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775
+RadioVitrine.exe: 00001498: 08:12:34 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00000C80: 08:12:35 [Indy]:EIdNotConnected : Not Connected : Addr: $006E5DCA
+RadioVitrine.exe: 00001E68: 08:12:35 [Indy]:EIdNotConnected : Not Connected : Addr: $006E5DCA
+RadioVitrine.exe: 00001374: 08:12:35 [Indy]:EIdNotConnected : Not Connected : Addr: $006E5DCA
+RadioVitrine.exe: 00001498: 08:12:35 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001498: 08:12:35 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001498: 08:12:35 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001498: 08:12:35 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001498: 08:12:35 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001498: 08:12:35 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001498: 08:12:35 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001498: 08:12:35 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001498: 08:12:35 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00001794: 08:14:19 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001794: 08:14:19 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001794: 08:14:19 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001794: 08:14:19 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+RadioVitrine.exe: 00001794: 08:14:19 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001794: 08:14:19 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $006DD3AA
+RadioVitrine.exe: 00001794: 08:14:29 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001794: 08:14:29 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001794: 08:14:29 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001794: 08:14:29 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001794: 08:14:29 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00000E10: 08:14:32 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00000E10: 08:14:32 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00000E10: 08:14:32 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00000E10: 08:14:32 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+RadioVitrine.exe: 00000E10: 08:14:32 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00000E10: 08:14:32 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001440: 08:14:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775
+RadioVitrine.exe: 00000D18: 11:15:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007C4775

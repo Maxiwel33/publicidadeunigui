@@ -1,0 +1,42 @@
+RadioVitrine.exe: 00001B24: 05:47:39 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001B24: 05:47:39 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001B24: 05:47:39 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001B24: 05:47:40 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+RadioVitrine.exe: 00001B24: 05:47:40 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001B24: 05:47:40 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 000018C4: 05:48:54 [127.0.0.1]:EDatabaseError : TBparcelas: Dataset not in edit or insert mode : Addr: $00622DF2
+RadioVitrine.exe: 00001B24: 05:50:25 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001B24: 05:50:26 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001B24: 05:50:26 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001B24: 05:50:26 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 00001D20: 05:52:04 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 00001D20: 05:52:04 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 00001D20: 05:52:04 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 00001D20: 05:52:04 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+RadioVitrine.exe: 00001D20: 05:52:04 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 00001D20: 05:52:04 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001F08: 05:52:57 [127.0.0.1]:EDatabaseError : TBparcelas: Dataset not in edit or insert mode : Addr: $00622DF2
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 00001D20: 05:57:14 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 00001D20: 05:57:14 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 00001D20: 05:57:14 [Terminated]:Exit Code: 0
+RadioVitrine.exe: 0000177C: 05:57:19 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 0000177C: 05:57:19 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 0000177C: 05:57:19 [TUniServerModule]:Erasing Cache Folder...
+RadioVitrine.exe: 0000177C: 05:57:19 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+RadioVitrine.exe: 0000177C: 05:57:19 [TUniServerModule]:Starting HTTP Server...
+RadioVitrine.exe: 0000177C: 05:57:19 [TUniServerModule]:HTTP Server Started. Port: 8077
+RadioVitrine.exe: 00001220: 13:13:55 [127.0.0.1]:EDatabaseError : TBparcelas: Dataset not in edit or insert mode : Addr: $00622DF2
+RadioVitrine.exe: 00000490: 13:16:42 [127.0.0.1]:EDatabaseError : TBparcelas: Dataset not in edit or insert mode : Addr: $00622DF2

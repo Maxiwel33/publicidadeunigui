@@ -1,0 +1,33 @@
+RadioVitrine.exe: 0000120C: 08:34:37 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 0000120C: 08:34:37 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 0000120C: 08:34:37 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 0000120C: 08:34:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 0000120C: 08:34:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001548: 09:16:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 000016E4: 09:31:21 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000016E4: 09:31:21 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000016E4: 09:31:21 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 000016E4: 09:31:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000016E4: 09:31:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00000AB4: 09:31:37 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 0000163C: 09:59:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 0000163C: 09:59:18 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $0080F2FE
+RadioVitrine.exe: 000016E4: 20:06:34 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+RadioVitrine.exe: 000013A8: 21:18:26 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000013A8: 21:18:26 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000013A8: 21:18:26 [TUniServerModule]:Global Cache Folder Erased. <42> Files deleted.
+RadioVitrine.exe: 000013A8: 21:18:26 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000013A8: 21:18:26 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001118: 21:22:38 [127.0.0.1]:EIBNativeException : [FireDAC][Phys][FB]Unable to complete network request to host "localhost".
+Failed to establish a connection. : Addr: $0089E9DA
+RadioVitrine.exe: 000013A8: 21:26:33 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 000013A8: 21:26:33 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 000013A8: 21:26:34 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 000013A8: 21:26:34 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 000013A8: 21:26:34 [Terminated]:Exit Code: 0

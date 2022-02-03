@@ -1,0 +1,34 @@
+RadioVitrine.exe: 000018F0: 07:45:36 []:>--------------------------------------------------------------<
+RadioVitrine.exe: 000018F0: 07:45:36 [TUniServerModule]:Server First Init.
+RadioVitrine.exe: 000018F0: 07:45:36 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+RadioVitrine.exe: 000018F0: 07:45:36 [TUniServerModule]:HTTP Server Started on Port: 8077
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 0000161C: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 0000161C: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 0000161C: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 0000161C: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001BDC: 07:45:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 00001888: 08:00:00 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007DC4EB
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniServerModule]:Shutting Down Server.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniServerModule]:Stopping HTTP Server.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniServerModule]:HTTP Server Stopped.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniGUISessionManager]:Terminating Session manager.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniGUISessionManager]:Stopping Cache Eraser...
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniGUISessionManager]:Cache Eraser Stopped.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniGUISessionManager]:Destroying Worker Threads.
+RadioVitrine.exe: 000018F0: 08:26:04 [TUniGUISessionManager]:Session manager terminated.
+RadioVitrine.exe: 000018F0: 08:26:05 [TUniServerModule]:Server Shutdown Completed.
+RadioVitrine.exe: 000018F0: 08:26:05 []:<-------------------------------------------------------------->
+RadioVitrine.exe: 000018F0: 08:26:05 [Terminated]:Exit Code: 0
